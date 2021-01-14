@@ -15,7 +15,7 @@ Broad First Search 中 Broad 一词可联想到 Broadcast，抽象起来也是�
 
 ### 算法框架：
 
-- 这里需要用到 Queue 数据结构，元素遵守 **FILO** 规则
+- 这里需要用到 Queue 数据结构
 
 - 另一个容器 visited 来 **保存已经走过的节点**，避免重复搜索
 
